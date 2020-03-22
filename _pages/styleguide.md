@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Style Guide
 permalink: /styleguide/
@@ -102,4 +102,4 @@ A paragraph looks like this — dolor amet cray stumptown fingerstache neutra fo
 
 ### Videos
 
-<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/iWowJBRMtpc" frameborder="0" allowfullscreen></iframe> -->
