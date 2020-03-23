@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-image: eu.png
+image: eu2.jpeg
 permalink: /about/
 ---
 
