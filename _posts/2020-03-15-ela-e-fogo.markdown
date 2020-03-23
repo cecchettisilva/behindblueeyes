@@ -3,7 +3,7 @@ layout: post
 title:  Ela é fogo
 date:   2020-03-15 ‏‎23:58:43 +0300
 image:  casal-ruiva.jpg
-tags:   Amor
+tags:   Love
 ---
 
 ![]({{site.baseurl}}/img/ruiva.jpg)
