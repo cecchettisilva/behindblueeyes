@@ -2,6 +2,7 @@
 layout: default
 ---
 <div class="container">
+	<link href="https://fonts.googleapis.com/css2?family=Bilbo+Swash+Caps&display=swap" rel="stylesheet">
 	<div class="row">
 	{% if site.posts.size > 0 %}
 		{%- for post in paginator.posts -%}
@@ -18,7 +19,7 @@ layout: default
 						{% else %} {% endif %}
 						</div>
 						<h2 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2>
-						<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 163 }}{% else %}{{ post.content | strip_html | truncate: 163 }}{% endif %}</p>
+						<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 110 }}{% else %}{{ post.content | strip_html | truncate: 110 }}{% endif %}</p>
 						<a href="{{ post.url | prepend: site.baseurl }}" class="button read-more">Leia mais</a>
 					</div>
 				</div>

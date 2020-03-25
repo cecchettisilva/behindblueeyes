@@ -219,6 +219,7 @@
       }
     }
     .article-title {
+      font-family: 'Bilbo Swash Caps', cursive;
       margin-bottom: 20px;
       font-size: 30px;
       line-height: 30px;
@@ -229,6 +230,7 @@
       }
     }
     .article-excerpt {
+      font-family: 'Vollkorn', serif;
       max-width: 450px;
       margin-bottom: 30px;
       font-size: 14px;
@@ -255,6 +257,7 @@
   &:hover {
     .article-image {
       .image-overlay-text {
+
         opacity: 1;
       }
     }
@@ -299,6 +302,7 @@
       transition: all 0.4s ease;
     }
     .image-overlay-text {
+      font-family: 'Bilbo Swash Caps', cursive;
       position: absolute;
       top: 50%;
       left: 50%;

@@ -1,0 +1,31 @@
+---
+layout: post
+title:  Pequena incerteza
+date:   2013-12-11 ‏‎23:58:43 +0300
+image:  13.jpg
+tags:   Love
+---
+
+![]({{site.baseurl}}/img/15.jpg)
+
+<p>"Tão belo seus lábios<br />
+que aos montes, já provei<br />
+Tão belo seu encanto,<br />
+que já me tira do sério.<br />
+Tua voz um acorde infindo,<br />
+do qual realmente gostei.<br />
+Teu abraço contínuo, és afago sincero.<br />
+Teus lindos cabelos que mudam de cor,<br />
+irradia sua beleza!<br />
+Tê-la comigo, contando os segundos no relógio,<br />
+é o que eu mais espero.<br />
+Desejo intenso de entrar em ti<br />
+e ser o seu paraiso.<br />
+Você marcou minha vida, tenho certeza.<br />
+Só quero que com nada tema,<br />
+pois, ser feliz é o que interessa,
+nessa vida, tão, tão incerta ..." <br /></p>
+
+
+
+
