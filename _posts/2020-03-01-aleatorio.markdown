@@ -10,25 +10,42 @@ tags:   [Life]
 
 <p><a href="http://www.freepik.com">Photo by Katemangostar / Freepik</a></p> <br />
 
-<p>"Quando senta do meu lado, sinto o teu calor combinar com o meu. <br />
-O teu cabelo ruivo, te dá o toque dos céus! <br />  
-Te olho de canto, meio sem graça. <br /> 
-Então você encosta sua cabeça no meu ombro, eu só peço, não se afasta! <br /> 
-Em meio a uma tragada e outra. <br />
-Sinto que minha alma se encontra. <br />
-Então a conversa se prolonga. <br />
-Espero que não acabe essa noite! <br />
-Que tudo o que procuramos, se encontre! <br />
-E agora, desvenda todas as histórias, impossíveis de entender. <br />
-Chegou ao nível mais alto do seu eu, até transcender! <br />
-Então, te beijei! <br />
-Foi intenso, fogo, como esperei. <br />
-Diga-me, quais são seus medos? <br />
-Sei que por trás destas sardas, esconde um real desejo! <br />
-Conta pra mim, deixa eu te fazer sentir! <br />
-Ao menos deixa eu te dizer, o quanto é bom existir! <br />
-Posso te mostrar que não sou como outro qualquer. <br />
-Sei que quer alguém dos sonhos, se maravilhar, como mulher! <br />
-Sei que se há algo gritando dentro de ti, <br />
-Vai saber a hora, de se permitir..." <br /></p>
+<p>"Um toque sem igual de carisma, <br />
+simpatia, sem premisssas.<br />
+Figura que não se configura.<br />
+Saudações, eram o que nos limitavam,<br />
+poucas vezes te fiz dar uma risada.<br />
+Anotava cada palavra em uma agenda,<br />
+onde segredos guardava.<br />
+Por um tempo desapareceu,<br />
+foram meses de um possível adeus!<br />
+Um dia resurgiu, abriu-se a porta, sorriu!<br />
+Em um domingo, não como outro qualquer,<br />
+fez-me te encontrar.<br />
+Desde lá, a conversa é infinita<br /> 
+e não precisa acabar.<br />
+Aos poucos foi se aproximando, bem devagar.<br />
+Compartilhou seus maiores desejos,<br /> 
+seus mais profundos sonhos,<br /> 
+semelhantes aos que almejo.<br /> 
+Muitos conselhos realistas,<br />
+seu abraço, melhor ainda.<br />
+Faz parte do meu dia a dia,<br /> 
+tirando as vezes que some,<br /> 
+logo após uma dose da sua sintonia.<br />
+Excita o quanto deixa tudo bem,<br />
+o quanto coisas aleatórias,<br />
+ficam em um fluxo de vai e vem.<br />
+Conseguimos nos sentir chegando ao céu,<br /> 
+sem rumo, ao léu.<br />
+Um alucinando o outro,<br /> 
+deixando teu cheiro, popular a minha roupa,<br />
+pra depois lembrar, o quanto a noite foi boa.<br /> 
+Dar uma volta na cidade,<br /> 
+onde mesmo nas dificuldades,<br />
+o passado não invade.<br />
+Se um dia o universo nos desencontrar,<br /> 
+saiba que foi aleatório,<br /> 
+o quanto teve que durar..."</p><br />
+
 
